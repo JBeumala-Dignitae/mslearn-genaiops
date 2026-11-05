@@ -1,0 +1,6 @@
+test_prompt,agent_response_excerpt,intent_resolution,relevance,groundedness,comments,total_tokens
+day-hike-gear,"Great question — for a summer day hike on moderate terrain, you want a balance...",5,4,5,Complete and accurate gear list with safety protocols; padded with dog and bear extras,1849
+overnight-camping,"Great — congratulations on planning your first overnight! Below is a practical,...",5,4,4,Covers everything but 13 sections overwhelm a beginner; offers to check weather it cannot access,2633
+three-day-backpacking,Great — October mountain trips can be beautiful but also deceptively hazardous....,5,4,5,Prioritized 12-point safety list with correct cold-weather guidance; kit and resources repeat content,3221
+winter-hiking,Good question — winter hiking brings significantly different hazards and...,4,4,5,Accurate but lists all winter gear instead of focusing on differences vs summer; mixes day and backcountry,2470
+trail-difficulty,Good question — picking a trail that matches your fitness makes the hike safer...,5,4,4,Clear metrics and self-tests; adds gear and a training plan; claims it can check current trail conditions,1920

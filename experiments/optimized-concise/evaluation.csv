@@ -1,0 +1,6 @@
+test_prompt,agent_response_excerpt,intent_resolution,relevance,groundedness,comments,total_tokens
+day-hike-gear,Good question — for a summer day hike in moderate terrain you want to balance...,5,5,4,Focused checklist with minimal pack option; 300-600 kcal total food looks low for a full day,1800
+overnight-camping,"Great — an overnight trip is a perfect way to start. Below is a practical,...",5,4,5,Beginner-appropriate plan starting at an easy campground; some repeated items and extras,2364
+three-day-backpacking,First — a quick question so I can tailor advice: have you backpacked overnight...,5,4,4,Thorough prioritized plan; pack at 20-30 percent of body weight is heavy and SPOT is not a PLB; LNT is extra,2755
+winter-hiking,"Good question — winter hiking changes almost everything about planning, gear...",5,4,4,Frames gear as additions vs summer; overnight section goes beyond the question; rewarm frostbite immediately is risky advice in the field,2659
+trail-difficulty,Good question — choosing the right trail is one of the best ways to have a...,5,4,5,Clear benchmarks and self-tests; gear and training plan are extra but useful,1925
